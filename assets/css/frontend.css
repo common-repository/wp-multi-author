@@ -1,0 +1,12 @@
+.wpmat-contributors-wrapper {
+	margin-top: 5px;
+}
+
+.wpmat-contributors-wrapper li {
+	display: inline;
+	margin-right: 15px;
+}
+
+.wpmat-contributors-wrapper .avatar {
+	display: inline;
+}
